@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Rikelvypereiraborges">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rikelvypereiraborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikelvypereiraborges&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Contato
  
 <div> 
   <a href="https://www.instagram.com/r.i.k.e.l.v.y/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
